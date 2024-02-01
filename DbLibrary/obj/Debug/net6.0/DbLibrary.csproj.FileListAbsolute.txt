@@ -1,0 +1,34 @@
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.deps.json
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.runtimeconfig.json
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.dll
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.pdb
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbModels.dll
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbModels.pdb
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.AssemblyReference.cache
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.AssemblyInfoInputs.cache
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.AssemblyInfo.cs
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.CopyComplete
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.dll
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\refint\DbLibrary.dll
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.pdb
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.genruntimeconfig.cache
+C:\Users\Agaye_jz58\source\repos\ConsoleApp10\DbLibrary\obj\Debug\net6.0\ref\DbLibrary.dll
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.deps.json
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.runtimeconfig.json
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.dll
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbLibrary.pdb
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbModels.dll
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\bin\Debug\net6.0\DbModels.pdb
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.AssemblyInfo.cs
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.csproj.CopyComplete
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.dll
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\refint\DbLibrary.dll
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.pdb
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\DbLibrary.genruntimeconfig.cache
+C:\Users\user\Downloads\ConsoleApp10 (1)\ConsoleApp10\DbLibrary\obj\Debug\net6.0\ref\DbLibrary.dll
